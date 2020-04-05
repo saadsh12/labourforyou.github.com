@@ -1,0 +1,18 @@
+#testimonials
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.890),rgba(26, 24, 24, 0.7)),url(image6.jpg);
+    background-position:center;
+    color: #fff;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+.container .fa
+{
+    margin: 10px;
+    color: #007bff;
+    font-weight: bold;
+}
+.testi
+{
+    color: white;
+}
